@@ -1,0 +1,17 @@
+{
+  "name": "faithlife-api",
+  "version": "0.1.0",
+  "description": "A collection of CommonJS modules for interacting with the Faithlife API.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Schoonmaker <michael.schoonmaker@logos.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mach": "^0.12.0",
+    "mi": "^1.0.0",
+    "superagent": "^0.18.2",
+    "when": "^3.4.4"
+  }
+}
