@@ -9,7 +9,7 @@
   "author": "Michael Schoonmaker <michael.schoonmaker@logos.com>",
   "license": "MIT",
   "peerDependencies": {
-    "faithlife-oauth": "!0.3.0"
+    "faithlife-oauth": "~0.3.0"
   },
   "dependencies": {
     "mach": "~0.12.0",
