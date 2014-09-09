@@ -1,6 +1,6 @@
 {
   "name": "faithlife-api",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A collection of CommonJS modules for interacting with the Faithlife API.",
   "main": "lib/index.js",
   "scripts": {
