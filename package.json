@@ -11,9 +11,6 @@
   },
   "author": "Michael Schoonmaker <michael.schoonmaker@logos.com>",
   "license": "MIT",
-  "peerDependencies": {
-    "faithlife-oauth": "~0.4.3"
-  },
   "dependencies": {
     "express": "~4.9.4",
     "mi": "~1.0.0",
