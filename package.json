@@ -17,7 +17,7 @@
   "dependencies": {
     "express": "~4.9.4",
     "mi": "~1.0.0",
-    "superagent": "git://github.com/Schoonology/superagent",
+    "superagent": "~0.19.0",
     "superagent-then": "~1.0.0",
     "when": "~3.4.4"
   },
